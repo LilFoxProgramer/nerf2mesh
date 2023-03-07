@@ -1,7 +1,6 @@
 rich
 tqdm
 ninja
-torch
 numpy 
 scipy
 lpips
